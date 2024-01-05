@@ -152,15 +152,15 @@ DotNet Developer,"['Css', 'Sql server', 'Asp.Net', 'Sql', 'C#', 'C', 'Html', 'Ja
 DotNet Developer,"['.net', 'Html', 'Sql server', 'Sql', 'C', 'Javascript', 'Css', 'Visual Studio', 'C#', 'Asp.Net MVC', 'AngularJS', 'Entity Framework', 'Model View Controller']",1Y1M
 DotNet Developer,"['Erp', 'DotNet']",11M
 DotNet Developer,"['DotNet', 'Html', 'Sql', 'Sql server', 'C', 'Agile', 'Javascript', 'Rest', 'Api', 'Json', 'Visual Studio 2008/2010/2012/2015', 'C#', 'Asp.Net', 'MVC 3.0/4.0/5.0', 'Unit Testing', 'Entityframewok 6.0', 'JQuery', 'Typescript', 'Visual Studio Code (IDE)', '.NET Framework 2.0, 3.5, 4.0, 4.5', 'Tortoise', 'SVN', 'Git', 'LINQ']",2Y10M
-Blockchain,"['Api', 'Writing', 'Engineering', 'English', 'Transactions', 'System', 'Contracts']"
-Blockchain,"['Api', 'Reports', 'Computer science', 'Analytics', 'Writing', 'Engineering', 'Mysql', 'Aws', 'Docker', 'Operations', 'System', 'Ecommerce', 'Database', 'Finance', 'Postgresql', 'Contracts', 'Startup', 'Php']"
-Blockchain,"['Video', 'C++', 'Html5', 'Java', 'Engineering', 'Mysql', 'Django', 'Safety', 'Mining', 'Apex', 'System', 'Crm', 'C', 'Python', 'Database', 'Salesforce', 'Administration']"
-Blockchain,"['Routing', 'Telecom', 'System', 'Windows', 'Database', 'Operating systems', 'Postgresql', 'Soap', 'Php', 'Html', 'Audit', 'C++', 'Inventory', 'Training', 'Fabric', 'Scripting', 'Sql', 'Crm', 'C', 'Oracle', 'Java', 'Protocols', 'Javascript', 'Rest', 'Content', 'Api', 'Js', 'Css', 'Networking', 'Mysql', 'Erp', 'Ubuntu']"
-Blockchain,"['Startup', 'Prototype', 'Java', 'Banking', 'Engineering', 'Networking', 'International', 'Programming', 'Research', 'Sales', 'System', 'C', 'Machine learning', 'Data analytics', 'Analytics', 'Marketing', 'Cloud']"
-Testing,"['Reports', 'Certification', 'Analysis', 'Distribution', 'Analyze', 'Engineering', 'Process', 'Iso', 'Research', 'Testing', 'Commissioning', 'Assembly', 'Documentation']"
-Testing,"['Testing', 'Electronics', 'Electrical', 'System', 'Analytical']"
-Testing,"['Excel', 'Java', 'Automation', 'Word', 'Android', 'Networking', 'Linux', 'Testing', 'Powerpoint', 'C', 'Database', 'System', 'Selenium']"
-Testing,"['Excel', 'Word', 'Engineering', 'Windows', 'Testing', 'Research', 'Crm', 'Electrical', 'Try']"
-Testing,"['Hardware', 'Analyze', 'Engineering', 'Regulations', 'Process', 'Technical', 'Policies', 'Testing', 'Electronics', 'C', 'Windows', 'Compliance', 'Assembly', 'System', 'Plan', 'Schematics']"
-Testing,"['Hardware', 'Testing', 'Electronics', 'C', 'Matrix', 'Design', 'Matlab', 'System']"
-Testing,"['Security', 'Windows', 'Database', 'Html', 'Os', 'Reports', 'Automation', 'Process', 'Mobile', 'Testing', 'Sql', 'Sql server', 'Hospital', 'Java', 'Android', 'Test cases', 'Test plans', 'Reporting', 'Css', 'Mysql', 'System']"
+Blockchain,"['Smart Contracts', 'DApps', 'MEAN Stack', 'API', 'Documentation']",1Y
+Blockchain,"['Api', 'Mysql', 'Aws', 'Docker', 'Postgresql', 'Php', 'Smart Contracts', 'Ethereum', 'Golang', 'Node', 'Angular', 'React', 'MongoDB', 'Microservices Blockchain', 'Protocol', 'Consensus', 'Solidity', 'Express', 'PHP', 'JQuery', 'Opencart (Ecommerce Framework)']",1Y4M
+Blockchain,"['C', 'C++', 'Html5', 'Java', 'Mysql', 'Django', 'Apex', 'Python', 'Salesforce', 'Visualforce', 'Salesforce CRM', 'Raspberry PI', 'Ethereum']",6M
+Blockchain,"['Windows', 'Postgresql', 'Php', 'Html', 'C++', 'Sql', 'Crm', 'C', 'Oracle', 'Java', 'Javascript', 'Rest and soap', 'Api', 'Css', 'Mysql', 'Erp', 'Ubuntu', 'JQuery', 'Angular', 'Struts', 'Hibernate', 'Spring', 'MVC', 'Tomcat', 'Glassfish', 'Bitcoin', 'Ethereum', 'JDBC', 'Ripple', 'Hyperledger Fabric', 'React JS', 'Express JS']",1Y7M
+Blockchain,"['Java', 'C', 'Machine learning', 'Data analytics', 'Bitcoin', 'Ethereum', 'Hyperledger', 'Solidity', 'Beginner Go', 'Beginner R3 Corda', 'Beginner Tendermint', 'Node JS', 'C', 'Networking', 'Computer Vision', 'Cloud Computing', 'ReactJS', 'Angular']",2Y3M
+Testing,"['Documentation', 'Routine tests', 'Type tests', 'Special tests (IS 2026, IS 1180, IS 11171/IEC-60076)', 'Transformers Testing', 'RTCC panel with OLTC Testing', 'Functional Testing', 'Failure Analysis', 'CAPA Submission', 'Daily Internal Testing Reports', 'Winding', 'Core assembly', 'Core coil assembly', 'ISO and BIS', 'Testing ledger Maintenance', 'Quality Inspection', 'WHY-WHY analysis']",1Y
+Testing,"['Functional Testing', 'Routine Testing', 'Quality Inspection', 'WHY-WHY Analysis', 'Typee Testing']",6M
+Testing,"['MS Office', 'CPP', 'Android Developer', 'Manual Testing', 'Java', 'Automation Testing', 'Networking', 'Linux', 'C', 'Selenium', 'Regression Testing']",1Y
+Testing,"['Windows', 'MS Office', 'Insulation Resistance Test', 'Transformer Ratio Test', 'Transformer Vector Group Test', 'Magnetic Balance Test', 'Magnetic Current Test', 'Hi-Pot Test']",6M
+Testing,"['C', 'Windows 7-8/NT/XP', 'C++', 'Documentation', 'Acceptance Testing', 'Compliance Testing', 'Troubleshooting', 'Hardware Testing', 'Debugging of hardware PCBs']",9M
+Testing,"['MS Office', 'C', 'Portius (PCB Design)', 'Multisim', 'Micro wind', 'Matlab', 'Keil', 'Latex', 'Hardware']",6M
+Testing,"['Windows XP/7/8/8.1/10', 'MySQL', 'Html', 'SQL Server', 'Core Java', 'Sql', 'CSS', 'Manual Testing', 'Database Testing', 'Bug Tracking and reporting', 'End user Handling', 'Test Plans', 'Vista', 'Android']",2Y
