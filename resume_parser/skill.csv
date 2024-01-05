@@ -145,13 +145,13 @@ ETL Developer,"['Jira', 'Informatica', 'Oracle 11g', 'Facets 5.0 and Tidal', 'ET
 ETL Developer,"['Talend', 'Big Data', 'Aws', 'Agile', 'Etl', 'Mysql', 'Informatica Powercenter', 'Microsoft SQL Server', 'Workbench', 'AWS Services', 'Redshift (TAC) Studio', 'Athena', 'Star', 'SQL', 'S3 Schema', 'Data Modelling', 'Data Integration', 'Data Warehouse']",1Y11M
 ETL Developer,"['Data Warehouse', 'Etl', 'Sql', 'C', 'Unix', 'Ab intio', 'Datastage']",3Y
 ETL Developer,"['Windows', 'Unix', 'Customer management', 'Oracle', 'PL/SQL', 'SQL', 'Financial reports', 'Etl', 'Business intelligence', 'Data Warehouse', 'Informatica', 'advert management', 'Billing and Provisioning', 'Financial reports', 'Management reports', 'Rejection reports']",3Y3M
-DotNet Developer,"['Interactive', '.net', 'Coaching', 'Operations', 'Windows', 'Database', 'Html', 'Reports', 'Automation', 'Process', 'Scripting', 'Travel', 'Testing', 'Sql', 'Sql server', 'C', 'Accounting', 'Hospital', 'Mortgage', 'Ui', 'Javascript', 'Documentation', 'Administration', 'Cms', 'Json', 'Presentation', 'Css', 'Visual', 'Technical', 'C#', 'Asp', 'Coding', 'System']"
-DotNet Developer,"['Access', 'Html5', 'Excel', 'Word', 'Visual', 'Programming', 'Technical', 'Scheduling', 'Security', 'Sql server', 'Sql', 'Pdf', 'Database', 'Api']"
-DotNet Developer,"['Reports', 'C++', 'Css', 'Controls', 'Visual', 'Technical', 'Ui', 'Sql server', '.net', 'Asp', 'Sql', 'Reporting', 'C', 'Database', 'Html']"
-DotNet Developer,"['Css', 'Sql server', 'English', 'Asp', 'Sql', 'C#', 'C', 'Sports', 'Html']"
-DotNet Developer,"['.net', 'Html', 'Architecture', 'Training', 'Logistics', 'Sql server', 'Sql', 'Crm', 'C', 'Access', 'Transport', 'Javascript', 'Presentation', 'Css', 'Visual', 'Technical', 'C#', 'Asp', 'System']"
-DotNet Developer,['Erp']
-DotNet Developer,"['.net', 'Database', 'Design', 'Html', 'Testing', 'Sql', 'Sql server', 'Crm', 'C', 'Recruit', 'Agile', 'Controls', 'Programming', 'Schedules', 'Javascript', 'Rest', 'Content', 'Api', 'Js', 'Cms', 'Json', 'Visual', 'C#', 'Asp', 'Legal', 'Coding', 'System']"
+DotNet Developer,"['DotNet', 'MS Windows', 'Html', 'Scripting', 'Sql', 'Sql server', 'C', 'Ui', 'Javascript', 'Json', 'Css', 'C#', 'ASP.Net', 'MVC', 'ADO.Net', 'Entity Framework', 'LINQ', 'JQuery', 'Ajax', 'Bootstrap', 'KendoUI', 'Visual Studio', 'OOPS']",8M
+DotNet Developer,"['Html5', 'Visual Studio', 'Sql server', 'Sql', 'C#', 'DotNet', 'ASP.Net', 'MVC', 'Angular', 'JQuery', 'CSS3', 'Bootstrap', 'MS Office', 'Entity Framework', 'Ajax']",1Y3M
+DotNet Developer,"['C++', 'Css', 'Visual', 'Ui', 'Sql server', '.net', 'Asp.net', 'Sql', 'C', 'Html', 'Crystal Report', 'C#', 'Entity Framework', 'JQuery', 'JavaScript', 'MVC', 'Kindo', 'Telerik']",2Y
+DotNet Developer,"['Css', 'Sql server', 'Asp.Net', 'Sql', 'C#', 'C', 'Html', 'Javascript']",9M
+DotNet Developer,"['.net', 'Html', 'Sql server', 'Sql', 'C', 'Javascript', 'Css', 'Visual Studio', 'C#', 'Asp.Net MVC', 'AngularJS', 'Entity Framework', 'Model View Controller']",1Y1M
+DotNet Developer,"['Erp', 'DotNet']",11M
+DotNet Developer,"['DotNet', 'Html', 'Sql', 'Sql server', 'C', 'Agile', 'Javascript', 'Rest', 'Api', 'Json', 'Visual Studio 2008/2010/2012/2015', 'C#', 'Asp.Net', 'MVC 3.0/4.0/5.0', 'Unit Testing', 'Entityframewok 6.0', 'JQuery', 'Typescript', 'Visual Studio Code (IDE)', '.NET Framework 2.0, 3.5, 4.0, 4.5', 'Tortoise', 'SVN', 'Git', 'LINQ']",2Y10M
 Blockchain,"['Api', 'Writing', 'Engineering', 'English', 'Transactions', 'System', 'Contracts']"
 Blockchain,"['Api', 'Reports', 'Computer science', 'Analytics', 'Writing', 'Engineering', 'Mysql', 'Aws', 'Docker', 'Operations', 'System', 'Ecommerce', 'Database', 'Finance', 'Postgresql', 'Contracts', 'Startup', 'Php']"
 Blockchain,"['Video', 'C++', 'Html5', 'Java', 'Engineering', 'Mysql', 'Django', 'Safety', 'Mining', 'Apex', 'System', 'Crm', 'C', 'Python', 'Database', 'Salesforce', 'Administration']"
