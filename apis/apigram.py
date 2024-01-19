@@ -76,5 +76,5 @@ async def process_text(request: TextRequest):
     print("\n")
 
     # For demonstration purposes, returning a dummy response
-    response = {"message": "Text processed successfully", "": "", }
+    response = {"message": "Text processed successfully" }
     return response
