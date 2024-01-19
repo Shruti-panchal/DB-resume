@@ -1,38 +1,62 @@
 import nltk
-from nltk import word_tokenize
+import spacy
+from nltk import word_tokenize, sent_tokenize
 from nltk import pos_tag
 from nltk.chunk import ne_chunk
 from pycontractions import Contractions
 import re
 import language_tool_python
-from gingerit.gingerit import GingerIt
+from textblob import TextBlob
 
-tool = GingerIt()
+# text = input("enter the text : ")
+nlp = spacy.load("en_core_web_sm")
+
+text = "Dedicated and detail-orient software developer for a passion to creating efficient, maintainable, and scalable software solutions."
+
+tool = TextBlob(text)
+print("Original Text: ", text)
+
+print("#############################################################################################processing")
+
 tool2 = language_tool_python.LanguageTool('en-US')
-text = "you is better then me "
 
 cont = Contractions(api_key="glove-twitter-100")
 cont.load_models()
 
-ex_text = str(list(cont.expand_texts([text])))
+ex_text = list(cont.expand_texts([text]))[0]
+print("Expanded text : ", ex_text)
 
-cleaned = []
-no_spec = re.sub('[^A-Za-z0-9.,?]+ ', '', ex_text)
-cleaned = "".join(no_spec)
-print("text after cleaning and expanding :: ", cleaned)
+cleaned = re.sub('[^A-Za-z0-9.,? ]', '', ex_text)
+print("text after cleaning:: ", cleaned)
 
-tokens = word_tokenize(cleaned)
-tagged = pos_tag(tokens)
-ner_tags = ne_chunk(tagged)
+tokens = sent_tokenize(cleaned)
+print("Token: ", tokens)
 
-gr1 = tool.parse(cleaned)['result']
-gr2 = tool2.correct(gr1)
+tags = pos_tag(tokens)
+print("POS Tags: ", tags)
 
-final_gr1 = list(cont.contract_texts([gr1]))[0]
-final_gr2 = list(cont.contract_texts([gr2]))[0]
+gr1 = tool.correct()
+print("Text after corrected spellings: ", gr1)
+print("\n")
 
-print("Suggestion 1 :: ", final_gr1)
-print("Suggestion 2 :: ", final_gr2)
+gr2 = tool2.correct(text)
+print("Text after correct grammer 1: ", gr2)
+print("\n")
+
+gr3 = tool2.correct(gr2)
+print("Text after correct grammer 2: ", gr3)
+print("\n")
+
+gr4 = tool2.correct(gr3)
+print("Text after correct grammer 3: ", gr4)
+print("\n")
+
+
+# final_gr1 = list(cont.contract_texts([gr1]))[0]
+# # final_gr2 = list(cont.contract_texts([gr2]))[0]
+
+# print("Suggestion 1 :: ", final_gr1)
+# print("Suggestion 2 :: ", final_gr2)
 
 
 # import re

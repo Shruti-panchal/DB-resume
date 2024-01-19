@@ -8,25 +8,28 @@ Data Science,"['Database', 'Java', 'Data Analysis', 'C', 'Data Structure', 'Pyth
 Data Science,"['C', 'IOT', 'Python', 'MATLAB', 'Data Science', 'Machine Learning', 'HTML', 'Microsoft Word', 'Microsoft Excel', 'Microsoft PoWerpoint']",11M
 Data Science,"['Excel', 'Statistics', 'Ai', 'Robotics', 'Python', 'Machine learning', 'Tableau', 'Analytics', 'Consulting', 'R', 'Data Visualization']",2Y
 Data Science,"['Deep Learning', 'Numpy', 'Pandas', 'Matplotlib', 'Mysql', 'Scikit learn', 'Sql', 'Python', 'Machine learning', 'NLP', 'Selenium', 'Beautiful Soup', 'Html', 'web Crawling', 'Web Scraping', 'Recurrent Neural Netwwork']",6M
-HR,"['Communication', 'Finance', 'Typewriting', 'Theory of reasoned action', 'Statistical Package for the Social Sciences(SPSS)']",8M
-HR,"['Interactive', 'indos XP', 'Ms Office (word, Excel: Look-ups; Pivot table; other basic functions ; Power Point)', 'Payroll Processing', 'Internet Applications', 'Administration', 'industry specific Policies, Procedure, Forms, Formats, Letters, Checklists etc', 'Coordination', 'Records Management', 'Statutory Compliance Management', 'Sales', 'Recruitment and Selection', 'Hospitality', 'Performance Management', 'Training and Development', 'Periodic Interactive sessions', 'Employee engagement']",11M
-HR,"['Scrum', 'web programming', 'tally', 'Accounting', 'C', 'Ecommerce', 'Database', 'Finance', 'Communication']",6M
-HR,"['Counsellor', 'Organizational Behaviour', 'Training']",3M
-HR,"['Engineering', 'Administration', ' MS office', 'Microsoft Dynamics', 'AX software', 'SAIBA software', 'Attendance maintenance', 'Time cards maintenance', 'Staffs and labors individual records maintenance']",6M
-HR,"['Computer science', 'Java', 'Engineering', 'Programming', 'C', 'C++', 'Database', 'Matlab', 'Communication']",6M
-Advocate,"['Drafting','indos', 'MS. Office', 'Adaptability', 'Teamwwork', 'Legal Research', 'Legal Writing', 'Counseling', 'Negotiation', 'Case Management', 'Client Management']",4Y
-Advocate,"['Legal assistance', 'typing', 'legal research', 'legal writing']",9M
-Advocate,"['Drafting', 'Filing', 'Legal ethics', 'Business Development']",11M
-Advocate,"['Legal']",6M
-Advocate,"['Litigation', 'Contracts', 'Microsoft Office', 'Internet Savvy', 'Legal Correspondence', 'Legal', 'Drafting']",11M
-Advocate,"['Legal Research', 'Indos', 'administrative procedures', 'evidence rules and trials', 'Appellate Advocacy', 'International', 'Drafting', 'Language: English, Hindi, Punjabi', 'Contracts', 'Administration']",6Y
-Advocate,"['English', 'Legal Advisor']",2Y
-Advocate,"['Languages: Proficient in English, Hindi and Marathi', 'MS-Office', 'Internet operation', 'Criminal layer', 'Legal adviser']",5M
-Advocate,"['Filing', 'Litigation', 'Banking', 'Legal Writing', 'Efficient researcher', 'Legal Education', 'Family Law', 'Criminal Defence', 'Environment law and litigation', 'Business legal issue', 'Banking Law', 'commercial law ', 'Mortgage']",6M
-Advocate,"['Legal Writing', 'Legal Advise', 'Typing']",11M
-Advocate,"['Legal Writing', 'Legal Research', 'Communication Skills']",2M
-Arts,"['Marketing', 'Creativity', 'Drawing, Arts and Craft teacher']",4Y
-Arts,"['Social media', 'budgets management', 'performing arts (music, theatre and dance)', 'Administrative support', 'English', 'Recruitment', 'Programming and booking performances and events', 'Website', 'Marketing', 'Communication', 'Sourcing', 'Programming', 'Schedules', 'Reporting', 'Proposal', 'Advertising', 'Administration', 'Publishing', 'Partnership', 'Technical', 'Editorial']",20Y
+HR,"['Communication', 'Finance', 'Typewriting', 'Theory of reasoned action', 'Statistical Package for the Social Sciences(SPSS)']"
+HR,"['Interactive', 'indos XP', 'Ms Office (word, Excel: Look-ups; Pivot table; other basic functions ; Power Point)', 'Payroll Processing', 'Internet Applications', 'Administration', 'industry specific Policies, Procedure, Forms, Formats, Letters, Checklists etc', 'Coordination', 'Records Management', 'Statutory Compliance Management', 'Sales', 'Recruitment and Selection', 'Hospitality', 'Performance Management', 'Training and Development', 'Periodic Interactive sessions', 'Employee engagement']"
+HR,"['Economics', 'HRIS (Human Resources Information System)', 'HR functions', 'employee lifecycle management', 'Clear and effective communication', 'ATS']"
+HR,"['Communication']"
+HR,"['Engineering']"
+HR,"['Scrum', 'web programming', 'tally', 'Accounting', 'C', 'Ecommerce', 'Database', 'Finance', 'Communication']"
+HR,"['Counsellor', 'Organizational Behaviour', 'Training']"
+HR,"['Engineering', 'Administration', ' MS office', 'Microsoft Dynamics', 'AX software', 'SAIBA software', 'Attendance maintenance', 'Time cards maintenance', 'Staffs and labors individual records maintenance']"
+HR,"['Computer science', 'Java', 'Engineering', 'Programming', 'C', 'C++', 'Database', 'Matlab', 'Communication']"
+Advocate,"['Drafting','indos', 'MS. Office', 'Adaptability', 'Teamwwork', 'Legal Research', 'Legal Writing', 'Counseling', 'Negotiation', 'Case Management', 'Client Management']"
+Advocate,"['Legal assistance', 'typing', 'legal research', 'legal writing']"
+Advocate,"['Drafting', 'Filing', 'Legal ethics', 'Business Development']"
+Advocate,['Legal']
+Advocate,"['Litigation', 'Contracts', 'Microsoft Office', 'Internet Savvy', 'Legal Correspondence', 'Legal', 'Drafting']"
+Advocate,"['Legal Research', 'Indos', 'administrative procedures', 'evidence rules and trials', 'Appellate Advocacy', 'International', 'Drafting', 'Language: English, Hindi, Punjabi', 'Contracts', 'Administration']"
+Advocate,"['English', 'Legal Advisor']"
+Advocate,"['Languages: Proficient in English, Hindi and Marathi', 'MS-Office', 'Internet operation', 'Criminal layer', 'Legal adviser']"
+Advocate,"['Filing', 'Litigation', 'Banking', 'Legal Writing', 'Efficient researcher', 'Legal Education', 'Family Law', 'Criminal Defence', 'Environment law and litigation', 'Business legal issue', 'Banking Law', 'commercial law ', 'Mortgage']"
+Advocate,"['Legal Writing', 'Legal Advise', 'Typing']"
+Advocate,"['Legal Writing', 'Legal Research', 'Communication Skills']"
+Arts,"['Marketing', 'Creativity', 'Drawing, Arts and Craft teacher']"
+Arts,"['Social media', 'budgets management', 'performing arts (music, theatre and dance)', 'Administrative support', 'English', 'Recruitment', 'Programming and booking performances and events', 'Website', 'Marketing', 'Communication', 'Sourcing', 'Programming', 'Schedules', 'Reporting', 'Proposal', 'Advertising', 'Administration', 'Publishing', 'Partnership', 'Technical', 'Editorial']"
 Arts,"['Pharmacy', 'Presentation', 'English', 'Hindi', 'Marathi', 'Marketing', 'Communication', 'Business Communication', 'Indos', 'MS Office']"
 Arts,"['Operating System: indos XP, Vista', 'Creativity', 'painting', 'Drawing', 'Artist']"
 Arts,"['Sports', 'Fitness', 'Martial Arts', 'Karate']"
