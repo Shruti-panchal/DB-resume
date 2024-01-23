@@ -57,22 +57,22 @@ Civil Engineer,"['AutoCAD', 'MS Office', 'indos 9x/2000/XP/Vista', 'Construction
 Civil Engineer,"['Planning', 'Material Inspection', 'Monitoring Construction', 'Specifications', 'MS Office', 'Autocad', 'Installation', 'Material Science', 'Structural Analysis', 'Geotechnical Engineering','Mathematics', 'Physics']",5Y
 Civil Engineer,"['Site inspection', 'Consulting', 'Risk assessment', 'Environmental Engineering', 'Material Science', 'QA/QC Validation', 'Specifications', 'Safety Controls']",3Y
 Civil Engineer,"['Autocad', 'Material Science', 'Construction']",6M
-Java Developer,"['Java', 'Servlet', 'JSP', 'Spring Boot', 'Html5', 'CSS', 'Bootstrap', 'Javascript', 'MySQL', 'JQuery', 'Ajax', 'Sublime', 'AngularJS', 'Eclipse', 'NetBeans', 'Spring tool suite', 'Atom', 'Indos XP, 7,8,10', 'KendoUI', 'Hibernate']"
-Java Developer,"['Jsp', 'Programming', 'Java']"
-Java Developer,"['Oracle', 'Java', 'Engineering', 'Linux', 'Sql', 'Design', 'System']"
-Java Developer,"['Electronics', 'Java', 'Communication']"
-Java Developer,"['C++', 'Inventory', 'Java', 'Ordering', 'Computer science', 'Engineering', 'Technical', 'Linux', 'Testing', 'Sql', 'Operating systems', 'C', 'Database', 'Invoicing', 'System', 'Inventory management']"
-Java Developer,"['Web services', 'Budget', 'Jsp', 'C++', 'Automation', 'Xml', 'Process', 'Sql', 'C', 'Access', 'Analytical', 'Communication', 'Oracle', 'Java', 'Js', 'Json', 'Engineering', 'Pl/sql', 'Technical']"
-Java Developer,"['Oracle', 'Analysis', 'Java', 'Css', 'Android', 'Mysql', 'Invoices', 'Xml', 'Shell', 'Technical', 'Testing', 'Migration', 'Billing', 'Documentation', 'Html']"
-Java Developer,"['Oracle', 'C++', 'Mis', 'Java', 'Engineering', 'Android', 'Programming', 'Security', 'Mobile', 'Sql', 'Database', 'C', 'Access', 'System']"
-Java Developer,"['C++', 'Excel', 'Java', 'Programming', 'C']"
-Java Developer,"['Php', 'Oracle', 'Os', 'Jsp', 'Json', 'Java', 'Engineering', 'Mysql', 'Scripting', 'Linux', 'Js', 'Javascript', 'Database', 'Html']"
-Java Developer,"['Os', 'Oracle', 'Jsp', 'C++', 'Java', 'Banking', 'Visual', 'Mysql', 'Programming', 'Security', 'Sql', 'C', 'System']"
-Java Developer,"['Jsp', 'Java', 'Css', 'Sql', 'English', 'System', 'Html']"
-Java Developer,"['Jsp', 'Json', 'Architecture', 'Java', 'Analysis', 'Css', 'Mysql', 'Scripting', 'Testing', 'Database', 'Javascript', 'Design', 'Html']"
-Business Analyst,"['Communication Skills', 'Requirement gathering', 'Problem solving', 'Critical Thinking', 'Documentation' ,'Stakeholder Management', 'Data Analysis', 'Requirement elicitation', 'Project Management', 'Business Process Modelling', 'Audit Management']"
-Business Analyst,"['Application Servers: IIS 6.0, Jboss 7.1', 'Sql', 'Oracle', 'DB2', 'Audit', 'iReports', 'Crystal report', 'Career Graph', 'Requirement elicitation', 'End user training', 'Documentation', 'Accounting', 'Recruitment (HRMS)', 'Pharmaceutical', 'Gap analysis', 'Drafting']"
-Business Analyst,"['Requirement Gathering', 'Requirement Analysis', 'Design Specifications', 'Client Communication', 'System Documentation', 'Problem solving', 'SDLC Operating Systems', 'indos OS', 'UNIX (Linux/Ubuntu)', 'Java', 'C++', 'JavaScript', 'HTML', 'Citrix Software', 'System Architect', 'Quality Center v9.0 & v10.0', 'Tortoise SVN', 'DOORS', 'Artifact Viewer', 'JformDesigner', 'JIRA', 'Microsoft D365', 'Microsoft Office', 'MS Excel', 'MS PowerPoint', 'MS Visio', 'AutoCAD', 'VLSI', 'MS-CIT Certified', 'Automation', 'Training', 'Functional Testing', 'Gap Analysis', 'Regression Testing', 'Prototyping', 'Documentation', 'Planning', 'Research', 'Presentations']",
+Java Developer,"['Java', 'Servlet', 'JSP', 'Spring Boot', 'Html5', 'CSS', 'Bootstrap', 'Javascript', 'MySQL', 'JQuery', 'Ajax', 'Sublime', 'AngularJS', 'Eclipse', 'NetBeans', 'Spring tool suite', 'Atom', 'Indos XP, 7,8,10', 'KendoUI', 'Hibernate']",1Y1M
+Java Developer,"['Jsp', 'Programming', 'Java']",6M
+Java Developer,"['Oracle', 'Java', 'Engineering', 'Linux', 'Sql', 'Design', 'System']",2Y8M
+Java Developer,"['Electronics', 'Java', 'Communication']",6M
+Java Developer,"['C++', 'Inventory', 'Java', 'Ordering', 'Computer science', 'Engineering', 'Technical', 'Linux', 'Testing', 'Sql', 'Operating systems', 'C', 'Database', 'Invoicing', 'System', 'Inventory management']",1Y5M
+Java Developer,"['Web services', 'Budget', 'Jsp', 'C++', 'Automation', 'Xml', 'Process', 'Sql', 'C', 'Access', 'Analytical', 'Communication', 'Oracle', 'Java', 'Js', 'Json', 'Engineering', 'Pl/sql', 'Technical']",3Y
+Java Developer,"['Oracle', 'Analysis', 'Java', 'Css', 'Android', 'Mysql', 'Invoices', 'Xml', 'Shell', 'Technical', 'Testing', 'Migration', 'Billing', 'Documentation', 'Html']",1Y9M
+Java Developer,"['Oracle', 'C++', 'Mis', 'Java', 'Engineering', 'Android', 'Programming', 'Security', 'Mobile', 'Sql', 'Database', 'C', 'Access', 'System']",2Y
+Java Developer,"['C++', 'Excel', 'Java', 'Programming', 'C']",2Y
+Java Developer,"['Php', 'Oracle', 'Os', 'Jsp', 'Json', 'Java', 'Engineering', 'Mysql', 'Scripting', 'Linux', 'Js', 'Javascript', 'Database', 'Html']",2Y
+Java Developer,"['Os', 'Oracle', 'Jsp', 'C++', 'Java', 'Banking', 'Visual', 'Mysql', 'Programming', 'Security', 'Sql', 'C', 'System']",8M
+Java Developer,"['Jsp', 'Java', 'Css', 'Sql', 'English', 'System', 'Html']",2Y
+Java Developer,"['Jsp', 'Json', 'Architecture', 'Java', 'Analysis', 'Css', 'Mysql', 'Scripting', 'Testing', 'Database', 'Javascript', 'Design', 'Html']",2Y
+Business Analyst,"['Communication Skills', 'Requirement gathering', 'Problem solving', 'Critical Thinking', 'Documentation' ,'Stakeholder Management', 'Data Analysis', 'Requirement elicitation', 'Project Management', 'Business Process Modelling', 'Audit Management']",1Y
+Business Analyst,"['Application Servers: IIS 6.0, Jboss 7.1', 'Sql', 'Oracle', 'DB2', 'Audit', 'iReports', 'Crystal report', 'Career Graph', 'Requirement elicitation', 'End user training', 'Documentation', 'Accounting', 'Recruitment (HRMS)', 'Pharmaceutical', 'Gap analysis', 'Drafting']",1Y3M
+Business Analyst,"['Requirement Gathering', 'Requirement Analysis', 'Design Specifications', 'Client Communication', 'System Documentation', 'Problem solving', 'SDLC Operating Systems', 'indos OS', 'UNIX (Linux/Ubuntu)', 'Java', 'C++', 'JavaScript', 'HTML', 'Citrix Software', 'System Architect', 'Quality Center v9.0 & v10.0', 'Tortoise SVN', 'DOORS', 'Artifact Viewer', 'JformDesigner', 'JIRA', 'Microsoft D365', 'Microsoft Office', 'MS Excel', 'MS PowerPoint', 'MS Visio', 'AutoCAD', 'VLSI', 'MS-CIT Certified', 'Automation', 'Training', 'Functional Testing', 'Gap Analysis', 'Regression Testing', 'Prototyping', 'Documentation', 'Planning', 'Research', 'Presentations']",6Y3M
 Business Analyst,"['Bizagi', 'MS Visio', 'Indigo Studio', 'MS Office', 'Testing Proficiency: Smoke, Sanity, Integration, Functional, Acceptance', 'Waterfall', 'Agile (Scrum)', 'SQL', 'HPQC business exposure', 'Prototype', 'Documentation', 'Client Management', 'Flow analysis', 'Preparation of BRD and SRS', 'Team Coordination', 'Presentation', 'Prototyping', 'Process improvement', 'Research', 'Operations management', 'Inventory management']",4Y
 Business Analyst,"['Indos', 'MS Office', 'HTML', 'JAVA', 'PHP', 'Business process', 'Risk Management', 'Stakeholder Management', 'Communication', 'Audit', 'timesheet validation']", 2Y
 Business Analyst,"['Reports', 'Excel', 'Mis', 'Research', 'Sales', 'Reporting', 'Client Management']",1Y
