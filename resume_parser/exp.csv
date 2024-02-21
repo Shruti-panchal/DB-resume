@@ -1,110 +1,110 @@
-Category,Experience
-Data Science,2Y
-Data Science,1Y
-Data Science,1Y
-Data Science,2Y
-Data Science,2Y
-Data Science,9M
-Data Science,11M
-Data Science,2Y
-Data Science,6M
-HR,8M
-HR,11M
-HR,6M
-HR,3M
-HR,6M
-HR,6M
-Advocate,4Y
-Advocate,9M
-Advocate,11M
-Advocate,6M
-Advocate,11M
-Advocate,6Y
-Advocate,2Y
-Advocate,5M
-Advocate,6M
-Advocate,11M
-Advocate,2M
-Arts,4Y
-Arts,20Y
-Arts,1Y
-Arts,8Y
-Arts,3Y
-Arts,10M
-web Designing,3Y
-web Designing,2Y4M
-web Designing,1Y
-web Designing,2Y
-Mechanical Engineer,10Y
-Mechanical Engineer,6M
-Mechanical Engineer,1M
-Mechanical Engineer,1Y
-Mechanical Engineer,1Y
-Sales,15Y
-Sales,9Y
-Sales,4Y
-Sales,4M
-Sales,3Y
-Health and fitness,8Y
-Health and fitness,9Y
-Health and fitness,5Y
-Health and fitness,1Y
-Health and fitness,1Y
-Health and fitness,2Y
-Civil Engineer,5Y
-Civil Engineer,4Y
-Civil Engineer,4Y
-Civil Engineer,5Y
-Civil Engineer,3Y
-Civil Engineer,6M
-Java Developer,1Y1M
-Java Developer,6M
-Java Developer,2Y8M
-Java Developer,6M
-Java Developer,1Y5M
-Java Developer,3Y
-Java Developer,1Y9M
-Java Developer,2Y
-Java Developer,2Y
-Java Developer,2Y
-Java Developer,8M
-Java Developer,2Y
-Java Developer,2Y
-Business Analyst,1Y
-Business Analyst,1Y3M
-Business Analyst,6Y3M
-Business Analyst,4Y
-Business Analyst, 2Y
-Business Analyst,1Y
-SAP Developer,1Y
-SAP Developer,6Y
-SAP Developer,5Y
-SAP Developer,3Y
-SAP Developer,6M
-SAP Developer,13Y
-Automation Testing,9Y1M
-Automation Testing,2Y
-Automation Testing,6M
-Automation Testing,2Y7M
-Automation Testing,6M
-Automation Testing,6M
-Automation Testing,6M
-Electrical Engineering,10Y
-Electrical Engineering,1Y3M
-Electrical Engineering,1Y6M
-Electrical Engineering,8M
-Electrical Engineering,7Y
-Operations Manager,3Y
-Operations Manager,8Y
-Operations Manager,6Y
-Operations Manager,1Y
-Python Developer,1Y3M
-Python Developer,7Y
-Python Developer,2Y7M
-Python Developer,1M
-Python Developer,6M
-Python Developer,1Y
-DevOps Engineer,12Y3M
+Category,Experience(months)
+Data Science,24
+Data Science,12
+Data Science,12
+Data Science,24
+Data Science,24
+Data Science,9
+Data Science,11
+Data Science,24
+Data Science,6
+HR,8
+HR,11
+HR,6
+HR,3
+HR,6
+HR,6
+Advocate,48
+Advocate,9
+Advocate,11
+Advocate,6
+Advocate,11
+Advocate,72
+Advocate,24
+Advocate,5
+Advocate,6
+Advocate,11
+Advocate,2
+Arts,48
+Arts,240
+Arts,12
+Arts,96
+Arts,36
+Arts,10
+web Designing,36
+web Designing,28
+web Designing,12
+web Designing,24
+Mechanical Engineer,120
+Mechanical Engineer,6
+Mechanical Engineer,1
+Mechanical Engineer,13
+Mechanical Engineer,13
+Sales,180
+Sales,108
+Sales,48
+Sales,4
+Sales,36
+Health and fitness,96
+Health and fitness,108
+Health and fitness,60
+Health and fitness,12
+Health and fitness,12
+Health and fitness,24
+Civil Engineer,60
+Civil Engineer,48
+Civil Engineer,48
+Civil Engineer,60
+Civil Engineer,36
+Civil Engineer,6
+Java Developer,13
+Java Developer,6
+Java Developer,32
+Java Developer,6
+Java Developer,17
+Java Developer,36
+Java Developer,21
+Java Developer,24
+Java Developer,24
+Java Developer,24
+Java Developer,8
+Java Developer,24
+Java Developer,24
+Business Analyst,12
+Business Analyst,15
+Business Analyst,75
+Business Analyst,48
+Business Analyst,24
+Business Analyst,12
+SAP Developer,12
+SAP Developer,72
+SAP Developer,60
+SAP Developer,36
+SAP Developer,6
+SAP Developer,156
+Automation Testing,109
+Automation Testing,24
+Automation Testing,6
+Automation Testing,31
+Automation Testing,6
+Automation Testing,6
+Automation Testing,6
+Electrical Engineering,120
+Electrical Engineering,15
+Electrical Engineering,18
+Electrical Engineering,8
+Electrical Engineering,84
+Operations Manager,36
+Operations Manager,96
+Operations Manager,72
+Operations Manager,12
+Python Developer,15
+Python Developer,84
+Python Developer,31
+Python Developer,1
+Python Developer,6
+Python Developer,13
+DevOps Engineer,147
 DevOps Engineer,63
 DevOps Engineer,180
 DevOps Engineer,25
@@ -116,48 +116,48 @@ Network Security Engineer,6
 Network Security Engineer,24
 Network Security Engineer,97
 Network Security Engineer,43
-PMO,6Y
-PMO,11Y
-PMO,2Y6M
-Database,1Y
-Database,9Y
-Database,1Y6M
-Database,5Y1M
-Database,11Y
-Database,1Y5M
-Database,2Y2M
-Database,4Y
-Database,2Y
-Database,11Y
-Database,4Y
-Hadoop,6M
-Hadoop,4Y1M
-Hadoop,2Y
-Hadoop,3Y
-Hadoop,2Y7M
-Hadoop,3Y1M
-Hadoop,6M
-ETL Developer,4Y
-ETL Developer,3Y
-ETL Developer,1Y11M
-ETL Developer,3Y
-ETL Developer,3Y3M
-DotNet Developer,8M
-DotNet Developer,1Y3M
-DotNet Developer,2Y
-DotNet Developer,9M
-DotNet Developer,1Y1M
-DotNet Developer,11M
-DotNet Developer,2Y10M
-Blockchain,1Y
-Blockchain,1Y4M
-Blockchain,6M
-Blockchain,1Y7M
-Blockchain,2Y3M
-Testing,1Y
-Testing,6M
-Testing,1Y
-Testing,6M
-Testing,9M
-Testing,6M
-Testing,2Y
+PMO,72
+PMO,132
+PMO,30
+Database,13
+Database,108
+Database,19
+Database,61
+Database,144
+Database,17
+Database,26
+Database,48
+Database,24
+Database,144
+Database,48
+Hadoop,6
+Hadoop,49
+Hadoop,24
+Hadoop,36
+Hadoop,31
+Hadoop,37
+Hadoop,6
+ETL Developer,48
+ETL Developer,36
+ETL Developer,23
+ETL Developer,36
+ETL Developer,39
+DotNet Developer,8
+DotNet Developer,15
+DotNet Developer,24
+DotNet Developer,9
+DotNet Developer,13
+DotNet Developer,11
+DotNet Developer,34
+Blockchain,12
+Blockchain,16
+Blockchain,6
+Blockchain,19
+Blockchain,27
+Testing,12
+Testing,6
+Testing,12
+Testing,6
+Testing,9
+Testing,6
+Testing,24

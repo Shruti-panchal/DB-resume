@@ -11,7 +11,8 @@ from textblob import TextBlob
 # text = input("enter the text : ")
 nlp = spacy.load("en_core_web_sm")
 
-text = "Dedicated and detail-orient software developer for a passion to creating efficient, maintainable, and scalable software solutions."
+# text = "Dedicated and detail-orient software developer for a passion to creating efficient, maintainable, and scalable software solutions."
+text = input("enter the text : ")
 
 tool = TextBlob(text)
 print("Original Text: ", text)
